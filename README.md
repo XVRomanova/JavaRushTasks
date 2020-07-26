@@ -1,0 +1,2 @@
+# JavaRushTasks
+Added several tasks
